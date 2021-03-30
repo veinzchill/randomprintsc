@@ -1,0 +1,9 @@
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\bin\Debug\Random PrintSc.exe.config
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\bin\Debug\Random PrintSc.exe
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\bin\Debug\Random PrintSc.pdb
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\obj\Debug\Random_PrintSc.Form1.resources
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\obj\Debug\Random_PrintSc.Properties.Resources.resources
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\obj\Debug\Random PrintSc.csproj.GenerateResource.cache
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\obj\Debug\Random PrintSc.csproj.CoreCompileInputs.cache
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\obj\Debug\Random PrintSc.exe
+C:\Users\ege20\source\repos\Random PrintSc\Random PrintSc\obj\Debug\Random PrintSc.pdb
